@@ -19,7 +19,7 @@ The script then analyzes the response to determine if the SQL injection was succ
 
 1. Install Python (if not already installed) from [Python Official Website](https://www.python.org/).
 
-2. Clone the repository or download the `webapp_sql_injection.py` file.
+2. Clone the repository or download the `pythonsqlinjectiontest.py` file.
 
 3. Open the script and modify the `target_url` variable to match the URL of the vulnerable web page:
    ```python
